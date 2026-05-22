@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+:root {
+  --wine-dark: #3E0014;
+  --bg-dark-navy: #0F172A;
+  margin: 0;
+  padding: 0;
+}
