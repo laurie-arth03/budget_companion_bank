@@ -7,4 +7,6 @@ export default defineConfig({
     react(),
     tailwindcss() 
   ],
+   plugins: [react()],
+  base: '/budget_companion_bank/',
 });
